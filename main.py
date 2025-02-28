@@ -2,7 +2,7 @@ import logging
 import aiogram
 import psycopg2
 import asyncio
-print('привет')
+print('пр')
 from docxtpl import DocxTemplate
 import os
 
